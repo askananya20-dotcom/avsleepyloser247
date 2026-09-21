@@ -1,1 +1,1 @@
-My first public repo, and I am gonna try to code an interactive greeting letter. 
+My first public repo, and I am gonna try to code an interactive crossing the street game. It mimicks the real world scenario of crossing the street at a traffic light interaction. It includes code I made in pycharm, and a traffic light project I made in onshape. 
