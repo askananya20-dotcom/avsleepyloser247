@@ -1,1 +1,3 @@
-My first public repo, and I am gonna try to code an interactive crossing the street game. It mimicks the real world scenario of crossing the street at a traffic light interaction. It includes code I made in pycharm, and a traffic light project I made in onshape. 
+My first public repo, also my "Hello World" project. 
+
+I am avsleepyloser247 and I am currently (in making of my first public repo) a student. I want to pursue engineering and Github can be my hub for some of my projects. I do CAD work, Onshape, and I right now I guess Python (in pycharm, even though AI will take over coding). 
